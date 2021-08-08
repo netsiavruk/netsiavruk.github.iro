@@ -1,2 +1,2 @@
-# netsiavruk.github.iro
+# netsiavruk.github.io
 Demo page.
